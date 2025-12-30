@@ -30,3 +30,9 @@
 
 ## 🛠️ HOW TO VIEW THE EVIDENCE (NO INSTALL REQUIRED)
 2. **Download Artifacts:** Check the `/evidence` folder for the `.json` manifest templates (Note: Private keys are redacted for public safety).
+## ⚖️ Forensic Evidence Log
+
+| Item 001: Key Verification | Item 002: Ledger Status |
+| :--- | :--- |
+| ![Handshake Proof](./assets/images/audit_handshake_verify.png) | ![Initial Status](./assets/images/ledger_status_initial.png) |
+| **Status**: Verified Math | **Status**: 0 Sats (Awaiting Sync) |

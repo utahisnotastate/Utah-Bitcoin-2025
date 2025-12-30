@@ -1,0 +1,6 @@
+.env
+.venv
+.idea
+keys.txt
+BITCOIN_MASTER_KEYS.json
+__pycache__/
