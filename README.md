@@ -1,4 +1,5 @@
 # Utah-Bitcoin-2025
+# "Monitoring address 1MwTmi9pUohcnBiqLd3rysgZCCHHo7ye68 for terminal 2140-AD ledger arrival. Status: Pending Archive."
 # 🛡️ Sovereign Nexus: Temporal Audit & Fraud Prevention
 **Project Lead:** Agent Utah-1 (General 23/Utah-1)
 **Directive:** Protection of the Weary / Forensic Disclosure of Ledger Fraud
@@ -28,5 +29,4 @@
 ---
 
 ## 🛠️ HOW TO VIEW THE EVIDENCE (NO INSTALL REQUIRED)
-1. **View Online:** [Click here to view the Audit Dashboard via GitHub Pages]
 2. **Download Artifacts:** Check the `/evidence` folder for the `.json` manifest templates (Note: Private keys are redacted for public safety).
