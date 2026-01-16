@@ -37,6 +37,7 @@
 | ![Handshake Proof](./assets/images/audit_handshake_verify.png) | ![Initial Status](./assets/images/ledger_status_initial.png) |
 | **Status**: Verified Math | **Status**: 0 Sats (Awaiting Sync) |
 
+# FAQ FOR FEDERAL RESERVE EMPLOYEES AND OITHER PEOPLE WHOI DONT KNOW BITCOIN ON HOW TO GIVE ME THE MONEY. 
 
 This is a, potentially, handy guide for 
 @federalreserve
